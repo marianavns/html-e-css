@@ -34,7 +34,7 @@ A linguagem HTML permite que todos estes elementos (e muitos outros) sejam estru
 
 O **elemento** é a base do HTML. Um parágrafo no texto, uma lista ou um título são exemplos de elementos.
 
-<img src=".\images\1-exemplo-de-pagina.png" alt="Exemplo de elementos" width=800 height=520 align="left">
+<img src=".\images\1-exemplo-de-pagina.png" alt="Exemplo de elementos" width=800 height=520>
 
 
 
